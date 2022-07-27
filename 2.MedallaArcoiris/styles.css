@@ -1,0 +1,32 @@
+body{
+background-color: white;
+
+}
+.listadeperritos{
+    background-color: pink;
+}
+.titulo{
+    background-color: lightcoral;
+    color: black;
+    margin: 40px, 30px, 0px, 30px;
+    background-color: pink;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(129, 34, 117);
+    border-radius: 5px;
+    border-top: solid 0px;
+}
+
+.contenido{
+    color: black;
+    background-color: pink;  
+    margin: 40px, 30px, 0px, 30px;
+    background-color: pink;
+    border-style: solid;
+    border-width: 1px;
+    border-color: purple;
+    border-radius: 3px;
+    border-top: solid 0px;
+}
+
+
